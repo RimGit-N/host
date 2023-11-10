@@ -1,0 +1,14 @@
+{
+  "root": {
+    "-cyanBackgroundPrimary": "hsla(0deg 0% var(--cyan-background-lightness) / 40%)",
+    "-cyanElevationShadow": "0 0 0 1.5px var(--cyan-accent-color), 0 2px 10px 0 rgb(0 0 0 / 60%)",
+    "-cyanFont": "'Montserrat', 'Open Sans'",
+    "-cyanBackgroundImg": "url(https://dablulite.github.io/Cyan/cyan-waves.png)",
+    "-cyanAccentColor": "#009f88",
+    "-cyanBlurRadius": "10px",
+    "-cyanStatusMaskBackground": "var(--profile-body-background-color)",
+    "-cyanTextShadow": "1",
+    "-windowMargin": "8",
+    "-windowBorderRadius": "8px"
+  }
+}
